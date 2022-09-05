@@ -9,5 +9,10 @@ package com.wzj.git;
 public class GitTest2 {
     public static void main(String[] args) {
         System.out.println("get test02!");
+        System.out.println("get test02!");
+        System.out.println("get test02!");
+        System.out.println("get test02!");
+        System.out.println("get test02!");
+        System.out.println("get test02!");
     }
 }
